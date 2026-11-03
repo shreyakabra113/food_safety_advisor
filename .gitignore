@@ -1,5 +1,17 @@
+# Virtual environment
 venv/
+
+# Python cache
 __pycache__/
+
+# Jupyter Notebook checkpoints
 .ipynb_checkpoints/
+
+# Environment variables and secrets
 .env
+
+# macOS system files
 .DS_Store
+
+# Raw dataset files (if not permitted to redistribute)
+data/raw/*.csv
