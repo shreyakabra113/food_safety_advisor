@@ -1,0 +1,71 @@
+ingredient,category,risk_general,risk_diabetes,risk_hypertension,risk_obesity,source,verified,risk_smoker,reason
+sugar,added sugar,2,3,0,2,WHO free sugars guideline; ADA Standards of Care,no,,
+glucose syrup,added sugar,2,3,0,2,WHO free sugars guideline; ADA Standards of Care,no,,
+invert sugar,added sugar,2,3,0,2,WHO free sugars guideline; ADA Standards of Care,no,,
+dextrose,added sugar,2,3,0,2,WHO free sugars guideline; ADA Standards of Care,no,,
+jaggery,added sugar,1,3,0,2,WHO free sugars guideline; ICMR-NIN,no,,
+honey,added sugar,1,3,0,2,WHO free sugars guideline; ICMR-NIN,no,,
+maltodextrin,refined carbohydrate,2,3,0,1,ADA Standards of Care,no,,
+refined wheat flour,refined grain,1,2,0,1,ICMR-NIN; ADA Standards of Care,no,,
+rice flour,refined starch,1,2,0,1,ICMR-NIN; ADA Standards of Care,no,,
+starch,refined starch,1,2,0,1,ICMR-NIN; ADA Standards of Care,no,,
+salt,sodium source,2,0,3,0,WHO sodium guideline; AHA,no,,
+ins 621,flavour enhancer,1,0,2,0,JECFA; FSSAI additive regulations,no,,
+ins 211,preservative,1,0,1,0,FSSAI additive regulations,no,,
+ins 102,synthetic colour,1,0,0,0,FSSAI additive regulations; EFSA,no,,
+palm oil,saturated fat,2,0,0,2,WHO saturated and trans fat guidelines,no,,
+butter,saturated fat,2,0,0,2,WHO saturated and trans fat guidelines,no,,
+cocoa butter,saturated fat,1,0,0,1,WHO saturated and trans fat guidelines,no,,
+hydrogenated vegetable fat,trans fat,3,1,1,2,WHO saturated and trans fat guidelines,no,,
+partially hydrogenated oil,trans fat,3,1,1,2,WHO saturated and trans fat guidelines,no,,
+vegetable fat,unspecified fat,1,0,0,1,WHO saturated and trans fat guidelines,no,,
+vegetable oil,unspecified oil,1,0,0,1,WHO saturated and trans fat guidelines,no,,
+sunflower oil,unsaturated fat,0,0,0,1,ICMR-NIN,no,,
+milk solids,dairy,1,1,0,1,ICMR-NIN,no,,
+milk,dairy,0,0,0,0,ICMR-NIN,no,,
+water,none,0,0,0,0,none,no,,
+yeast,leavening,0,0,0,0,none,no,,
+garlic,spice,0,0,0,0,ICMR-NIN,no,,
+ginger,spice,0,0,0,0,ICMR-NIN,no,,
+onion,vegetable,0,0,0,0,ICMR-NIN,no,,
+cumin,spice,0,0,0,0,ICMR-NIN,no,,
+coriander,spice,0,0,0,0,ICMR-NIN,no,,
+cocoa solids,cocoa,0,0,0,0,ICMR-NIN,no,,
+peanuts,nuts,0,0,0,0,ICMR-NIN,no,,
+wheat gluten,protein,0,0,0,0,ICMR-NIN,no,,
+oats,whole grain,0,0,0,0,ICMR-NIN,no,,
+citric acid,acidity regulator,0,0,0,0,FSSAI additive regulations,no,,
+added flavour,flavouring,1,0,0,0,FSSAI additive regulations,no,,
+emulsifier,additive category,1,0,0,0,FSSAI additive regulations,no,,
+acidity regulator,additive category,0,0,0,0,FSSAI additive regulations,no,,
+raising agent,additive category,1,0,1,0,FSSAI additive regulations,no,,
+thickener,additive category,0,0,0,0,FSSAI additive regulations,no,,
+stabilizer,additive category,0,0,0,0,FSSAI additive regulations,no,,
+antioxidant,additive category,0,0,0,0,FSSAI additive regulations,no,,
+preservative,additive category,1,0,1,0,FSSAI additive regulations,no,,
+colour,additive category,1,0,0,0,FSSAI additive regulations,no,,
+sweetener,artificial sweetener,1,1,0,1,WHO non-sugar sweeteners guideline,no,,
+any added sugar,fallback,2,3,0,2,WHO free sugars guideline; ADA Standards of Care,no,,
+any refined starch,fallback,1,2,0,1,ADA Standards of Care,no,,
+any sodium additive,fallback,1,0,2,0,WHO sodium guideline,no,,
+any artificial sweetener,fallback,1,1,0,1,WHO non-sugar sweeteners guideline,no,,
+any synthetic colour,fallback,1,0,0,0,FSSAI additive regulations,no,,
+any hydrogenated fat,fallback,3,1,1,2,WHO saturated and trans fat guidelines,no,,
+any flavour,fallback,1,0,0,0,FSSAI additive regulations,no,,
+ins 330,acidity regulator,0,0,0,0,FSSAI additive regulations; JECFA,no,0.0,citric acid and a common minor additive
+ins 322,emulsifier,0,0,0,0,FSSAI additive regulations; JECFA,no,0.0,lecithin and a common minor additive
+ins 500,raising agent,1,0,1,0,FSSAI additive regulations; WHO sodium guideline,no,0.0,sodium carbonates (baking soda type) that add some sodium
+ins 471,emulsifier,1,0,0,0,FSSAI additive regulations; JECFA,no,0.0,mono- and diglycerides of fatty acids and a processing additive
+flavour enhancer,additive category,1,0,1,0,FSSAI additive regulations,no,0.0,often contains sodium
+black pepper,spice,0,0,0,0,ICMR-NIN,no,0.0,no concern
+anticaking agent,additive category,0,0,0,0,FSSAI additive regulations,no,0.0,keeps powders free-flowing and a minor additive
+ins 503,raising agent,0,0,0,0,FSSAI additive regulations; JECFA,no,0.0,ammonium carbonates and a minor additive
+ins 415,thickener,0,0,0,0,FSSAI additive regulations; JECFA,no,0.0,xanthan gum and a minor additive
+ins 150d,synthetic colour,1,0,0,0,FSSAI additive regulations; EFSA,no,0.0,caramel colour with no nutritional value
+ins 412,thickener,0,0,0,0,FSSAI additive regulations; JECFA,no,0.0,guar gum and a minor additive
+ins 260,acidity regulator,0,0,0,0,FSSAI additive regulations; JECFA,no,0.0,acetic acid (vinegar) and a minor additive
+wheat,grain,0,1,0,0,ICMR-NIN,no,0.0,usually a grain; check whether it is whole or refined
+ins 551,anticaking agent,0,0,0,0,FSSAI additive regulations; JECFA,no,0.0,silicon dioxide and a minor additive
+ins 300,antioxidant,0,0,0,0,FSSAI additive regulations; JECFA,no,0.0,ascorbic acid (vitamin C) and a minor additive
+ins 627,flavour enhancer,1,0,1,0,FSSAI additive regulations; JECFA,no,0.0,disodium guanylate adds some sodium
+turmeric,spice,0,0,0,0,ICMR-NIN,no,0.0,no concern

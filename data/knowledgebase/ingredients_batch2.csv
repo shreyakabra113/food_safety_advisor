@@ -1,0 +1,18 @@
+ingredient,category,risk_general,risk_diabetes,risk_hypertension,risk_obesity,risk_smoker,reason,source,verified
+ins 330,acidity regulator,0,0,0,0,0,citric acid and a common minor additive,FSSAI additive regulations; JECFA,no
+ins 322,emulsifier,0,0,0,0,0,lecithin and a common minor additive,FSSAI additive regulations; JECFA,no
+ins 500,raising agent,1,0,1,0,0,sodium carbonates (baking soda type) that add some sodium,FSSAI additive regulations; WHO sodium guideline,no
+ins 471,emulsifier,1,0,0,0,0,mono- and diglycerides of fatty acids and a processing additive,FSSAI additive regulations; JECFA,no
+flavour enhancer,additive category,1,0,1,0,0,often contains sodium,FSSAI additive regulations,no
+black pepper,spice,0,0,0,0,0,no concern,ICMR-NIN,no
+anticaking agent,additive category,0,0,0,0,0,keeps powders free-flowing and a minor additive,FSSAI additive regulations,no
+ins 503,raising agent,0,0,0,0,0,ammonium carbonates and a minor additive,FSSAI additive regulations; JECFA,no
+ins 415,thickener,0,0,0,0,0,xanthan gum and a minor additive,FSSAI additive regulations; JECFA,no
+ins 150d,synthetic colour,1,0,0,0,0,caramel colour with no nutritional value,FSSAI additive regulations; EFSA,no
+ins 412,thickener,0,0,0,0,0,guar gum and a minor additive,FSSAI additive regulations; JECFA,no
+ins 260,acidity regulator,0,0,0,0,0,acetic acid (vinegar) and a minor additive,FSSAI additive regulations; JECFA,no
+wheat,grain,0,1,0,0,0,usually a grain; check whether it is whole or refined,ICMR-NIN,no
+ins 551,anticaking agent,0,0,0,0,0,silicon dioxide and a minor additive,FSSAI additive regulations; JECFA,no
+ins 300,antioxidant,0,0,0,0,0,ascorbic acid (vitamin C) and a minor additive,FSSAI additive regulations; JECFA,no
+ins 627,flavour enhancer,1,0,1,0,0,disodium guanylate adds some sodium,FSSAI additive regulations; JECFA,no
+turmeric,spice,0,0,0,0,0,no concern,ICMR-NIN,no
