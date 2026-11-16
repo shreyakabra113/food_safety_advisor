@@ -1,0 +1,54 @@
+ingredient,category,risk_general,risk_diabetes,risk_hypertension,risk_obesity,risk_smoker,reason,source,verified
+sugar,added sugar,2,3,0,2,0,raises blood sugar and adds calories without nutrients,WHO free sugars guideline; ADA Standards of Care,no
+glucose syrup,added sugar,2,3,0,2,0,absorbed quickly and spikes blood sugar,WHO free sugars guideline; ADA Standards of Care,no
+invert sugar,added sugar,2,3,0,2,0,a sugar syrup that raises blood sugar quickly,WHO free sugars guideline; ADA Standards of Care,no
+dextrose,added sugar,2,3,0,2,0,pure glucose that raises blood sugar quickly,WHO free sugars guideline; ADA Standards of Care,no
+jaggery,added sugar,1,3,0,2,0,natural but still a concentrated sugar that raises blood sugar,WHO free sugars guideline; ICMR-NIN,no
+honey,added sugar,1,3,0,2,0,natural but still a concentrated sugar that raises blood sugar,WHO free sugars guideline; ICMR-NIN,no
+maltodextrin,refined carbohydrate,2,3,0,1,0,digests very fast and can raise blood sugar,ADA Standards of Care,no
+refined wheat flour,refined grain,1,2,0,1,0,low in fibre and raises blood sugar faster than whole grain,ICMR-NIN; ADA Standards of Care,no
+rice flour,refined starch,1,2,0,1,0,refined starch that raises blood sugar,ICMR-NIN; ADA Standards of Care,no
+starch,refined starch,1,2,0,1,0,refined starch that raises blood sugar,ICMR-NIN; ADA Standards of Care,no
+salt,sodium source,2,0,3,0,1,high sodium raises blood pressure,WHO sodium guideline; AHA,no
+ins 621,flavour enhancer,1,0,2,0,0,monosodium glutamate adds sodium,JECFA; FSSAI additive regulations,no
+ins 211,preservative,1,0,1,0,0,sodium benzoate adds a little sodium,FSSAI additive regulations,no
+ins 102,synthetic colour,1,0,0,0,0,synthetic dye that may affect some children,FSSAI additive regulations; EFSA,no
+palm oil,saturated fat,2,0,0,2,1,high in saturated fat,WHO saturated and trans fat guidelines,no
+butter,saturated fat,2,0,0,2,1,high in saturated fat,WHO saturated and trans fat guidelines,no
+cocoa butter,saturated fat,1,0,0,1,0,rich in saturated fat,WHO saturated and trans fat guidelines,no
+hydrogenated vegetable fat,trans fat,3,1,1,2,2,hydrogenation can create trans fat that raises heart disease risk,WHO saturated and trans fat guidelines,no
+partially hydrogenated oil,trans fat,3,1,1,2,2,partial hydrogenation creates trans fat that raises heart disease risk,WHO saturated and trans fat guidelines,no
+vegetable fat,unspecified fat,1,0,0,1,0,unspecified fat that may be high in saturated fat,WHO saturated and trans fat guidelines,no
+vegetable oil,unspecified oil,1,0,0,1,0,unspecified oil that is high in calories,WHO saturated and trans fat guidelines,no
+sunflower oil,unsaturated fat,0,0,0,1,0,mostly unsaturated fat but high in calories,ICMR-NIN,no
+milk solids,dairy,1,1,0,1,0,concentrated milk sugar and fat,ICMR-NIN,no
+milk,dairy,0,0,0,0,0,no major concern,ICMR-NIN,no
+water,none,0,0,0,0,0,no concern,none,no
+yeast,leavening,0,0,0,0,0,no concern,none,no
+garlic,spice,0,0,0,0,0,no concern,ICMR-NIN,no
+ginger,spice,0,0,0,0,0,no concern,ICMR-NIN,no
+onion,vegetable,0,0,0,0,0,no concern,ICMR-NIN,no
+cumin,spice,0,0,0,0,0,no concern,ICMR-NIN,no
+coriander,spice,0,0,0,0,0,no concern,ICMR-NIN,no
+cocoa solids,cocoa,0,0,0,0,0,low concern on its own but check added sugar,ICMR-NIN,no
+peanuts,nuts,0,0,0,0,0,nutritious but a common allergen,ICMR-NIN,no
+wheat gluten,protein,0,0,0,0,0,only a concern for coeliac disease or gluten sensitivity,ICMR-NIN,no
+oats,whole grain,0,0,0,0,0,whole grain with fibre,ICMR-NIN,no
+citric acid,acidity regulator,0,0,0,0,0,no major concern,FSSAI additive regulations,no
+added flavour,flavouring,1,0,0,0,0,added flavouring with unspecified content,FSSAI additive regulations,no
+emulsifier,additive category,1,0,0,0,0,processing additive with limited nutritional value,FSSAI additive regulations,no
+acidity regulator,additive category,0,0,0,0,0,usually a minor additive,FSSAI additive regulations,no
+raising agent,additive category,1,0,1,0,0,may add sodium,FSSAI additive regulations,no
+thickener,additive category,0,0,0,0,0,usually a minor additive,FSSAI additive regulations,no
+stabilizer,additive category,0,0,0,0,0,usually a minor additive,FSSAI additive regulations,no
+antioxidant,additive category,0,0,0,0,0,usually a minor additive,FSSAI additive regulations,no
+preservative,additive category,1,0,1,0,0,some preservatives add sodium,FSSAI additive regulations,no
+colour,additive category,1,0,0,0,0,added colour with no nutritional value,FSSAI additive regulations,no
+sweetener,artificial sweetener,1,1,0,1,0,WHO advises against relying on non-sugar sweeteners for weight control,WHO non-sugar sweeteners guideline,no
+any added sugar,fallback,2,3,0,2,0,a sugar that raises blood sugar,WHO free sugars guideline; ADA Standards of Care,no
+any refined starch,fallback,1,2,0,1,0,refined starch that raises blood sugar,ADA Standards of Care,no
+any sodium additive,fallback,1,0,2,0,0,adds sodium,WHO sodium guideline,no
+any artificial sweetener,fallback,1,1,0,1,0,non-sugar sweetener with limited benefit,WHO non-sugar sweeteners guideline,no
+any synthetic colour,fallback,1,0,0,0,0,added colour with no nutritional value,FSSAI additive regulations,no
+any hydrogenated fat,fallback,3,1,1,2,2,may contain trans fat,WHO saturated and trans fat guidelines,no
+any flavour,fallback,1,0,0,0,0,added flavouring with unspecified content,FSSAI additive regulations,no

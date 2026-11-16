@@ -1,0 +1,11 @@
+ingredient,category,risk_general,risk_diabetes,risk_hypertension,risk_obesity,risk_smoker,reason,source,verified
+whole wheat flour,whole grain,0,1,0,0,0,whole grain with fibre that raises blood sugar more slowly than refined flour,ICMR-NIN; ADA Standards of Care,no
+gram flour,pulse flour,0,0,0,0,0,pulse flour with protein and fibre,ICMR-NIN,no
+ghee,saturated fat,2,0,0,2,1,high in saturated fat,WHO saturated and trans fat guidelines; ICMR-NIN,no
+coconut oil,saturated fat,2,0,0,2,1,very high in saturated fat,WHO saturated and trans fat guidelines,no
+soybean oil,unsaturated fat,0,0,0,1,0,mostly unsaturated fat but high in calories,ICMR-NIN,no
+groundnut oil,unsaturated fat,0,0,0,1,0,mostly unsaturated fat but high in calories,ICMR-NIN,no
+rice bran oil,unsaturated fat,0,0,0,1,0,mostly unsaturated fat but high in calories,ICMR-NIN,no
+cottonseed oil,unsaturated fat,0,0,0,1,0,mostly unsaturated fat but high in calories,ICMR-NIN,no
+mustard oil,unsaturated fat,0,0,0,1,0,mostly unsaturated fat but high in calories (check FSSAI erucic acid limit),ICMR-NIN; FSSAI,no
+high fructose corn syrup,added sugar,2,3,0,2,0,sweetener that raises blood sugar and adds calories,WHO free sugars guideline; ADA Standards of Care,no

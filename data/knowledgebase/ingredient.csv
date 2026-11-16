@@ -69,3 +69,31 @@ ins 551,anticaking agent,0,0,0,0,FSSAI additive regulations; JECFA,no,0.0,silico
 ins 300,antioxidant,0,0,0,0,FSSAI additive regulations; JECFA,no,0.0,ascorbic acid (vitamin C) and a minor additive
 ins 627,flavour enhancer,1,0,1,0,FSSAI additive regulations; JECFA,no,0.0,disodium guanylate adds some sodium
 turmeric,spice,0,0,0,0,ICMR-NIN,no,0.0,no concern
+whole wheat flour,whole grain,0,1,0,0,ICMR-NIN; ADA Standards of Care,no,0.0,whole grain with fibre that raises blood sugar more slowly than refined flour
+gram flour,pulse flour,0,0,0,0,ICMR-NIN,no,0.0,pulse flour with protein and fibre
+ghee,saturated fat,2,0,0,2,WHO saturated and trans fat guidelines; ICMR-NIN,no,1.0,high in saturated fat
+coconut oil,saturated fat,2,0,0,2,WHO saturated and trans fat guidelines,no,1.0,very high in saturated fat
+soybean oil,unsaturated fat,0,0,0,1,ICMR-NIN,no,0.0,mostly unsaturated fat but high in calories
+groundnut oil,unsaturated fat,0,0,0,1,ICMR-NIN,no,0.0,mostly unsaturated fat but high in calories
+rice bran oil,unsaturated fat,0,0,0,1,ICMR-NIN,no,0.0,mostly unsaturated fat but high in calories
+cottonseed oil,unsaturated fat,0,0,0,1,ICMR-NIN,no,0.0,mostly unsaturated fat but high in calories
+mustard oil,unsaturated fat,0,0,0,1,ICMR-NIN; FSSAI,no,0.0,mostly unsaturated fat but high in calories (check FSSAI erucic acid limit)
+high fructose corn syrup,added sugar,2,3,0,2,WHO free sugars guideline; ADA Standards of Care,no,0.0,sweetener that raises blood sugar and adds calories
+ins 631,flavour enhancer,1,0,1,0,FSSAI additive regulations; JECFA,no,0.0,disodium inosinate adds some sodium
+ins 472e,emulsifier,1,0,0,0,FSSAI additive regulations; JECFA,no,0.0,a processing additive (DATEM) with limited nutritional value
+ins 407,thickener,0,0,0,0,FSSAI additive regulations; JECFA,no,0.0,carrageenan and a minor additive
+ins 202,preservative,1,0,0,0,FSSAI additive regulations; JECFA,no,0.0,potassium sorbate and a low-concern preservative
+ins 110,synthetic colour,1,0,0,0,FSSAI additive regulations; EFSA,no,0.0,synthetic dye that may affect some children
+ins 282,preservative,1,0,0,0,FSSAI additive regulations; JECFA,no,0.0,calcium propionate and a low-concern preservative
+ins 466,thickener,0,0,0,0,FSSAI additive regulations; JECFA,no,0.0,cellulose gum and a minor additive
+cocoa powder,cocoa,0,0,0,0,ICMR-NIN,no,0.0,low concern on its own but check added sugar
+yeast extract,flavour enhancer,1,0,1,0,FSSAI additive regulations,no,0.0,natural source of glutamate and some sodium
+vitamins,added nutrients,0,0,0,0,ICMR-NIN,no,0.0,added nutrients for fortification
+minerals,added nutrients,0,0,0,0,ICMR-NIN,no,0.0,added nutrients for fortification
+soy,legume,0,0,0,0,ICMR-NIN,no,0.0,nutritious but a common allergen
+roasted peanuts,nuts,0,0,0,0,ICMR-NIN,no,0.0,nutritious but a common allergen
+spices and condiments,spice,0,0,0,0,ICMR-NIN,no,0.0,no concern
+any spice,fallback whole food,0,0,0,0,ICMR-NIN,no,0.0,spice with no known concern
+any vegetable,fallback whole food,0,0,0,0,ICMR-NIN,no,0.0,vegetable with no known concern
+any pulse,fallback whole food,0,0,0,0,ICMR-NIN,no,0.0,pulse or legume with no known concern
+any nut,fallback whole food,0,0,0,0,ICMR-NIN,no,0.0,nutritious but a common allergen

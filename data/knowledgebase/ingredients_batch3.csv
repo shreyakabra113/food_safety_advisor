@@ -1,0 +1,19 @@
+ingredient,category,risk_general,risk_diabetes,risk_hypertension,risk_obesity,risk_smoker,reason,source,verified
+ins 631,flavour enhancer,1,0,1,0,0,disodium inosinate adds some sodium,FSSAI additive regulations; JECFA,no
+ins 472e,emulsifier,1,0,0,0,0,a processing additive (DATEM) with limited nutritional value,FSSAI additive regulations; JECFA,no
+ins 407,thickener,0,0,0,0,0,carrageenan and a minor additive,FSSAI additive regulations; JECFA,no
+ins 202,preservative,1,0,0,0,0,potassium sorbate and a low-concern preservative,FSSAI additive regulations; JECFA,no
+ins 110,synthetic colour,1,0,0,0,0,synthetic dye that may affect some children,FSSAI additive regulations; EFSA,no
+ins 282,preservative,1,0,0,0,0,calcium propionate and a low-concern preservative,FSSAI additive regulations; JECFA,no
+ins 466,thickener,0,0,0,0,0,cellulose gum and a minor additive,FSSAI additive regulations; JECFA,no
+cocoa powder,cocoa,0,0,0,0,0,low concern on its own but check added sugar,ICMR-NIN,no
+yeast extract,flavour enhancer,1,0,1,0,0,natural source of glutamate and some sodium,FSSAI additive regulations,no
+vitamins,added nutrients,0,0,0,0,0,added nutrients for fortification,ICMR-NIN,no
+minerals,added nutrients,0,0,0,0,0,added nutrients for fortification,ICMR-NIN,no
+soy,legume,0,0,0,0,0,nutritious but a common allergen,ICMR-NIN,no
+roasted peanuts,nuts,0,0,0,0,0,nutritious but a common allergen,ICMR-NIN,no
+spices and condiments,spice,0,0,0,0,0,no concern,ICMR-NIN,no
+any spice,fallback whole food,0,0,0,0,0,spice with no known concern,ICMR-NIN,no
+any vegetable,fallback whole food,0,0,0,0,0,vegetable with no known concern,ICMR-NIN,no
+any pulse,fallback whole food,0,0,0,0,0,pulse or legume with no known concern,ICMR-NIN,no
+any nut,fallback whole food,0,0,0,0,0,nutritious but a common allergen,ICMR-NIN,no
